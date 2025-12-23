@@ -50,7 +50,7 @@ The screen shows **Add Status**, if your status is empty.
 5. You can add a video in one of the following ways.
     - Hold and press <img src="video.png" width="15" height="15"/>to record a live video. 
     
-    (Optional) Tap  <img src="flip.png" width="15" height="15"/> to flip your camera before recording.
+      (Optional) Tap  <img src="flip.png" width="15" height="15"/> to flip your camera before recording.
     - Tap <img src="gallery.png" width="15" height="15"/> to select a video from the device.
 6. Customize the video using the following options.
     - Tap  <img src="music.png" width="15" height="15"/>    to add music.
@@ -62,8 +62,9 @@ The screen shows **Add Status**, if your status is empty.
 8. On the bottom pane, tap Status (Contacts) if you want to modify who can view your status.
 9. Tap <img src="send.png" width="15" height="15"/>.
 
-
 This updates your status by adding a new video.
+
+This adds the new video to the end of your current active status sequence.
 
 ### Updating Status by adding a new Photo 
 
@@ -96,6 +97,8 @@ To update status,
 
 This updates your status by adding a new photo.
 
+This adds the new photo to the end of your current active status sequence.
+
 ### Updating Status by adding a new Text 
 
 You can update your status by adding a new text. This new text is added as a new status to the end of the list of your current active statuses.   
@@ -121,6 +124,8 @@ To update status,
 
 This updates your status by adding a new text.
 
+This adds the new text to the end of your current active status sequence.
+
 ### Updating Status by adding a new Voice 
 
 You can update your status by adding a new voice message. This new voice message is added as a new status at the end of the list of your current active statuses.  
@@ -140,6 +145,8 @@ To update status,
 8. Tap  <img src="send.png" width="15" height="15"/>   .
 
 This updates your status by adding a new voice.
+
+This adds the new voice to the end of your current active status sequence.
 
 ### Updating Status by deleting your Status 
 
@@ -226,10 +233,12 @@ When you update your status, your status is visible to your contacts.
 To view your status updates,
 
 1. On the bottom pane, tap **Updates**. This shows your current status and the status updates of your contacts on the top of the screen.  
-   The green border in a status indicates a status update.  
-2. On the screen, tap **My status**. This displays a list of your current active statuses.  
-3. From the list, tap on the status to view.
 
-This displays your status updates.  
+   The green border around your profile photo in the status indicates a status update.
+    
+3. On the screen, tap **My status**. This displays a list of your current active statuses.  
+4. From the list, tap on the status to view.
+
+This displays your status updates in chronological order.  
 
 
