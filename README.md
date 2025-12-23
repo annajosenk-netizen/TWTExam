@@ -40,6 +40,7 @@ You can update your WhatsApp status with the following types of content.
 You can update your status from an Android phone by adding statuses to your existing status.
 ### Updating Status by adding a new Video
 You can update your status by adding a video. You can either record a live video or select a video from your device to add to your status.
+
 To update status,
 1. On the bottom pane, tap **Updates**. This shows your current status and the status updates of your contacts on the top of the screen.
 The screen shows **Add Status**, if your status is empty.
@@ -67,6 +68,7 @@ This updates your status by adding a new video.
 ### Updating Status by adding a new Photo 
 
 You can update your status by adding a new photo. You can either take a photo with your phone camera or add a photo from your device.  
+
 To update status,
 
 1. On the bottom pane, tap **Updates**. This shows your current status and the status updates of your contacts on the top of the screen.
@@ -97,6 +99,7 @@ This updates your status by adding a new photo.
 ### Updating Status by adding a new Text 
 
 You can update your status by adding a new text. This new text is added as a new status to the end of the list of your current active statuses.   
+
 To update status,
 
 1. On the bottom pane, tap **Updates**. This shows your current status and the status updates of your contacts on the top of the screen.
@@ -121,6 +124,7 @@ This updates your status by adding a new text.
 ### Updating Status by adding a new Voice 
 
 You can update your status by adding a new voice message. This new voice message is added as a new status at the end of the list of your current active statuses.  
+
 To update status,
 
 1. On the bottom pane, tap **Updates**. This shows your current status and the status updates of your contacts on the top of the screen.
@@ -174,6 +178,7 @@ Your status is visible to all your contacts. WhatsApp allows you to decide who c
 ## Making your status visible to all your contacts 
 
 When you add or update your status, by default all your contacts can view it.   
+
 To make your status visible to all your contacts,
 
 1. On the bottom pane, tap **Updates**. This shows your status and the status updates of your contacts on the top of the screen.  
@@ -187,6 +192,7 @@ Your status updates are now visible to all your contacts.
 ## Hiding your status from some contacts 
 
 You can hide your status from some contacts. You can hide either by clicking **Status(Contacts)** on the screen while adding or updating your status or from **Status Privacy**.  
+
 To hide your status,
 
 1. On the bottom pane, tap **Updates**. This shows your status and the status updates of your contacts on the top of the screen.  
@@ -201,6 +207,7 @@ This hides your status from the selected contacts.
 ## Making your status visible to some contacts 
 
 You can allow some contacts to view your status. You can perform this either by clicking **Status(Contacts)** on the screen while adding or updating your status or from **Status Privacy**.  
+
 To make your status visible to some contacts,
 
 1. On the bottom pane, tap **Updates**. This shows your status and the status updates of your contacts on the top of the screen.  
