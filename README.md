@@ -11,8 +11,7 @@
             display: table-cell;
             vertical-align: middle;">
 
-Updating WhatsApp Status 
-=====
+# Updating WhatsApp Status <!-- omit in toc -->
 
 Getting Started Guide
 </div></div>
@@ -33,26 +32,26 @@ Version 1.0
 
 
 
-- [Updating WhatsApp Status](#updating-whatsapp-status)
+  
 - [Introduction](#introduction)
   - [Prerequisites](#prerequisites)
 - [Updating your Status](#updating-your-status)
-  - [How to Update Status from an Android Phone](#how-to-update-status-from-an-android-phone)
+  - [Update Status from an Android Phone](#update-status-from-an-android-phone)
     - [Add a Video](#add-a-video)
     - [Add a Photo](#add-a-photo)
     - [Add a Text](#add-a-text)
     - [Add a Voice](#add-a-voice)
     - [Delete a Status](#delete-a-status)
-  - [How to Update Status from an iPhone](#how-to-update-status-from-an-iphone)
+  - [Update Status from an iPhone](#update-status-from-an-iphone)
     - [Add a Video](#add-a-video-1)
     - [Add a Photo](#add-a-photo-1)
     - [Add a Text](#add-a-text-1)
     - [Add a Voice](#add-a-voice-1)
     - [Delete a Status](#delete-a-status-1)
 - [Managing your Status Privacy](#managing-your-status-privacy)
-  - [How to Make your Status Visible to all your Contacts](#how-to-make-your-status-visible-to-all-your-contacts)
-  - [How to Make your Status Visible to some Contacts](#how-to-make-your-status-visible-to-some-contacts)
-  - [How to Hide your Status from some Contacts](#how-to-hide-your-status-from-some-contacts)
+  - [Make your Status Visible to all Contacts](#make-your-status-visible-to-all-contacts)
+  - [Make your Status Visible to some Contacts](#make-your-status-visible-to-some-contacts)
+  - [Hide your Status from some Contacts](#hide-your-status-from-some-contacts)
 - [Viewing your Status Updates](#viewing-your-status-updates)
 
 <div style="page-break-before: always;"></div>
@@ -75,7 +74,7 @@ The new status is added to the end of your current status sequence. You can upda
 - Photo
 - Text
 - Voice
-## How to Update Status from an Android Phone
+## Update Status from an Android Phone
 You can update your status from an Android phone by adding or deleting statuses.
 ### Add a Video
 You can either record a live video or select a video from your device to add to your status. 
@@ -189,7 +188,7 @@ To delete a status,
 
 This removes your status.
 
-## How to Update Status from an iPhone 
+## Update Status from an iPhone 
 
 ### Add a Video 
 
@@ -209,11 +208,11 @@ Your status is visible to all your contacts by default. WhatsApp allows you to d
 * Making your status visible to some contacts  
 * Allow sharing of your status  
 * Sharing your status to Facebook and Instagram
-## How to Make your Status Visible to all your Contacts 
+## Make your Status Visible to all Contacts 
 
 When you add or update your status, by default all your contacts can view it.   
 
-To make your status visible to all your contacts,
+To make your status visible to all contacts,
 
 1. On the bottom pane, tap **Updates**. 
 2. On the screen, tap <img src="threedots.png" width="15" height="15"/>  . This shows a list of options.  
@@ -223,7 +222,7 @@ To make your status visible to all your contacts,
 
 Your status updates are now visible to all your contacts.
 
-## How to Make your Status Visible to some Contacts 
+## Make your Status Visible to some Contacts 
 
 You can allow some contacts to view your status. You can perform this either by clicking **Status(Contacts)** on the screen while adding or updating your status or from **Status Privacy**.  
 
@@ -239,7 +238,7 @@ To make your status visible to some contacts,
 
 Your status is now visible only to the selected contacts.
 
-## How to Hide your Status from some Contacts 
+## Hide your Status from some Contacts 
 
 You can hide your status from some contacts. You can hide either by clicking **Status(Contacts)** on the screen while adding or updating your status or from **Status Privacy**.  
 
