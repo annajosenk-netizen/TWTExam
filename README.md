@@ -103,7 +103,7 @@ To add a video,
 8. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.
 9. Tap <img src="send.png" width="15" height="15"/>.
 
-The new video appears in your status.
+You can see the video in your status.
 
 ### Add a Photo 
 
@@ -132,7 +132,7 @@ To add a photo,
 8.  On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 9.  Tap  <img src="send.png" width="15" height="15">   .
 
-The new photo appears in your status.
+You can see the photo in your status.
 
 ### Add a Text 
 
@@ -155,7 +155,7 @@ To add a text,
 7. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 8. Tap  <img src="send.png" width="15" height="15"/>   .
 
-This adds a text to your status.
+You can see the text in your status.
 
 ### Add a Voice 
 
@@ -172,7 +172,7 @@ To add a voice,
 7. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 8. Tap  <img src="send.png" width="15" height="15"/>   .
 
-The new voice appears in your status.
+You can see the voice in your status.
 
 ### Delete a Status 
 
@@ -186,7 +186,7 @@ To delete a status,
 4. From the list, tap **Delete**. A dialog box opens that asks your confirmation to delete.  
 5. Click **Delete**.
 
-WhatsApp removes your selected status from the current status sequence.
+WhatsApp removes the selected status from your current status sequence.
 
 ## Update Status from an iPhone 
 
@@ -251,7 +251,7 @@ To hide your status,
 5. On the screen, tap **0 excluded** to select the contacts from whom you want to hide your status. 
 6. On the screen, tap <img src="green-tick.jpg" width="15" height="15"/> to confirm.
    
-This hides your status from the selected contacts.
+WhatsApp hides your status from the selected contacts.
 
 # Viewing your Status Updates 
 
@@ -266,6 +266,6 @@ To view your status updates,
 2. On the screen, tap **My status**. This displays the list of your current active statuses.  
 3. From the list, tap on the status to view.
 
-This displays your status updates in chronological order.  
+You can view your status updates in chronological order.  
 
 
