@@ -90,14 +90,14 @@ To add a video,
       (Optional) To flip your camera before recording, tap  <img src="flip.png" width="15" height="15"/>.
     - Tap <img src="gallery.png" width="15" height="15"/> to select a video from the device.
   
-6. Customize the video before adding to status using the following options.
-    - On the screen, tap  <img src="music.png" width="15" height="15"/>    to add music.
-    - On the screen,  tap   <img src="stickers.png" width="15" height="15"/>   to add stickers.
-    - On the screen, tap **Aa** to add text. You can change the text color, font, and alignment. 
-    - On the screen,  tap <img src="pen.png" width="15" height="15"/> to draw. You can change the line color.
-    - On the screen, hold and drag the slider to adjust the start and end points.
-    - On the screen, tap **Add a caption...** to add a description.
-    - On the screen, tap **X** to discard this video. The previous screen opens that allows you to select a new status.
+6. Customize the video before adding to status using the following options on the screen.
+    - Tap  <img src="music.png" width="15" height="15"/>    to add music.
+    - Tap  <img src="stickers.png" width="15" height="15"/>   to add stickers.
+    - Tap **Aa** to add text. You can change the text color, font, and alignment. 
+    - Tap <img src="pen.png" width="15" height="15"/> to draw. You can change the line color.
+    - Hold and drag the slider to adjust the start and end points.
+    - Tap **Add a caption...** to add a description.
+    - Tap **X** to discard this video. The previous screen opens that allows you to select a new status.
   
 7. On the bottom pane, tap **@** to select the contacts whom you want to mention in this status.
 8. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.
@@ -120,14 +120,14 @@ To add a photo,
    (Optional) To flip your camera, tap <img src="flip.png" width="15" height="15">.
 
    - Tap <img src="gallery.png" width="15" height="15"> to select a photo or image from the device.  
-6. Customize the photo before adding to status using the following options.  
-   - On the screen, tap <img src="music.png" width="15" height="15">to add music.  
-   - On the screen, tap <img src="crop.png" width="15" height="15">    to crop the photo.  
-   - On the screen, tap  <img src="stickers.png" width="15" height="15">   to add stickers.  
-   - On the screen, tap **Aa** to add text.You can change the text color, font, and alignment.   
-   - On the screen, tap <img src="pen.png" width="15" height="15">to draw on the photo. You can change the line color.  
-   - On the screen, tap **Add a caption…** to give a caption.  
-   - On the screen, tap **X** to discard this photo. The previous screen opens that allows you to select a new status.
+6. Customize the photo before adding to status using the following options on the screen.  
+   - Tap <img src="music.png" width="15" height="15">to add music.  
+   - Tap <img src="crop.png" width="15" height="15">    to crop the photo.  
+   - Tap  <img src="stickers.png" width="15" height="15">   to add stickers.  
+   - Tap **Aa** to add text.You can change the text color, font, and alignment.   
+   - Tap <img src="pen.png" width="15" height="15">to draw on the photo. You can change the line color.  
+   - Tap **Add a caption…** to give a caption.  
+   - Tap **X** to discard this photo. The previous screen opens that allows you to select a new status.
 7. On the bottom pane, tap **@** to select the contacts whom you want to mention in this status.  
 8.  On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 9.  Tap  <img src="send.png" width="15" height="15">   .
@@ -147,10 +147,10 @@ To add a text,
    
    **Text** is selected by default.  
 5. On the screen, type the text to add to your status. The typed text appears on the same screen.  
-6. You can customize the text using the following options.  
-     - On the screen, tap **Aa** to change the text style.   
-     - On the screen, tap  <img src="bgcolor.png" width="15" height="15"/> to change the background color.  
-     - On the screen, tap **X** to discard this text. The previous screen opens that allows you to select a new status.
+6. You can customize the text using the following options on the screen.  
+     - Tap **Aa** to change the text style.   
+     - Tap  <img src="bgcolor.png" width="15" height="15"/> to change the background color.  
+     - Tap **X** to discard this text. The previous screen opens that allows you to select a new status.
     
 7. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 8. Tap  <img src="send.png" width="15" height="15"/>   .
