@@ -103,7 +103,7 @@ To add a video,
 8. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.
 9. Tap <img src="send.png" width="15" height="15"/>.
 
-This adds a video to your status.
+The new video appears in your status.
 
 ### Add a Photo 
 
@@ -132,7 +132,7 @@ To add a photo,
 8.  On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 9.  Tap  <img src="send.png" width="15" height="15">   .
 
-This adds a photo to your status.
+The new photo appears in your status.
 
 ### Add a Text 
 
@@ -159,7 +159,7 @@ This adds a text to your status.
 
 ### Add a Voice 
 
-You can update your status by adding a new voice message. This appears as a new status at the end of the list of your current active statuses.  
+You can update your status by adding a new voice message. You can record voice using the microphone of your mobile phone.  
 
 To add a voice,
 
@@ -172,7 +172,7 @@ To add a voice,
 7. On the bottom pane, tap **Status (Contacts)** if you want to modify who can view your status.  
 8. Tap  <img src="send.png" width="15" height="15"/>   .
 
-This adds a voice to your status.
+The new voice appears in your status.
 
 ### Delete a Status 
 
@@ -186,7 +186,7 @@ To delete a status,
 4. From the list, tap **Delete**. A dialog box opens that asks your confirmation to delete.  
 5. Click **Delete**.
 
-This removes your status.
+WhatsApp removes your selected status from the current status sequence.
 
 ## Update Status from an iPhone 
 
